@@ -1,0 +1,8 @@
+F:\Análise e desenvolvimento de sistemas\Github\1007\bin\Debug\1007.exe.config
+F:\Análise e desenvolvimento de sistemas\Github\1007\bin\Debug\1007.exe
+F:\Análise e desenvolvimento de sistemas\Github\1007\bin\Debug\1007.pdb
+F:\Análise e desenvolvimento de sistemas\Github\1007\obj\Debug\1007.csproj.AssemblyReference.cache
+F:\Análise e desenvolvimento de sistemas\Github\1007\obj\Debug\1007.csproj.SuggestedBindingRedirects.cache
+F:\Análise e desenvolvimento de sistemas\Github\1007\obj\Debug\1007.csproj.CoreCompileInputs.cache
+F:\Análise e desenvolvimento de sistemas\Github\1007\obj\Debug\1007.exe
+F:\Análise e desenvolvimento de sistemas\Github\1007\obj\Debug\1007.pdb
